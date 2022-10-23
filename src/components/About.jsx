@@ -12,6 +12,7 @@ function About(){
                 <li>Carousel de imagens nos detalhes dos jogos</li>
                 <li>Seção de comentários</li>
                 <li>Melhor organização do código</li>
+                <li>Requisitos de sistema nos detalhes dos jogos</li>
             </Itens>
         </div>
     )

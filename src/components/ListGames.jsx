@@ -74,7 +74,7 @@ function ListGames() {
         })
         .map((val) => {
           return (
-            <div className="fodase" key={val.id}>
+            <div className="unavaible" key={val.id}>
               {val}
             </div>
           );
